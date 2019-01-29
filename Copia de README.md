@@ -40,3 +40,7 @@ Repo de Github  https://github.com/Laboratoria/scl-2018-02-ux-marketplace/blob/m
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 
 Total 300 puntos
+
+
+Link de Trello
+https://trello.com/b/9j6ijriO/marketplace
