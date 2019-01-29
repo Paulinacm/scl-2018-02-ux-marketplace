@@ -23,3 +23,20 @@ Fotos, videos, guías de las actividades que realizaste
 Flujo de usuario
 Mapa de sitio
 Etc.
+
+
+Repo de Github  https://github.com/Laboratoria/scl-2018-02-ux-marketplace/blob/master/README.md
+
+(En formato Markdown)
+|Actividad|Descripción|Puntos|
+|:----|:---|:---:|
+|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 20 |
+|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|30|
+|Benchmark| Revisión de features de la competencia y referencias análogas. | 25 |
+|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
+|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|20|
+|Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
+|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
+|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+
+Total 300 puntos
