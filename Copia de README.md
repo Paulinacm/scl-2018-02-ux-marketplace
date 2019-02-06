@@ -1,8 +1,14 @@
+
+
+
+
+
 # Market Place
 Este corresponde a nuestro primer desafío del track de UX Designer en el Bootcamp de Laboratoria.
 
 ## Visión general del Cliente
 ![](https://i.imgur.com/LJuwcFA.png)
+Pagina de Instagram de la cliente.
 
 
 **@SnackNaturalChile** es un emprendimiento personal de Valentina, nuestra Cliente, que busca promover el cuidado de la salud de las personas mediante alimentos saludables. SnackNatural actualmente funciona como una página de venta de productos mediante la plataforma Instagram, donde promociona, y vende los productos a personas, y tiendas que quieran tener sus productos.  La marca tiene foco en personas deportistas y veganas dada la forma natural y saludable de sus ingredientes y modo de preparación.
@@ -236,26 +242,43 @@ Realizamos un primer prototipo de baja fidelidad mediante un wireframe a partir 
 
 **Testeo de usuario**
 Realizamos 4 testeos a usuarios.
+
 **Proceso**
+Se solicitó a 4 usuarios que utilizaran la version en wireframe:
+1. Que navegara por la página y sus elementos e indicaran qué tipo de página se trata.
+2. Se le indicó realizar una tarea, la de comprar una mantequilla de maní.
+
+
 **Aprendizajes**
+- Carrito de compras: Facilitar el proceso de compra con el carrito.  Con pocos clicks e informacion sobre la cantidad de objetovs, valor total y posibilidad de eliminar productos.
+> “Generalmente en las  páginas el carrito es confuso,  mientras menos clicks mejor. Ojalá en la sección del carrito se pueda eliminar fácilmente la compra”. 
+- Precio: Indicar el precio en cada producto, y en el carrito de compra, como del total de los productos incluidos en el carrito.
+- Valorados: sección Recetas, contáctanos.
+Indicar dónde queda la empresa (comuna, ciudad, pais).
+- No queda claro que pagina es scrolable y que carrusel se mueve.
+- Interfaz es clara que se trata de una página de venta de productos de alimentos.
+
 
 ### Alta fidelidad
 Luego realizamos un testeo con prototipo de alta fidelidad mediante una maqueta en Figma.
 
 
 **Testeo de usuarios**
-Realizamos 5 testeos a usuarios.
+
 
 **Proceso**
+
+
 **Aprendizajes**
 
 
-**Testeo con Clienta**
+
+### Testeo con Clienta
 Finalmente como parte de la etapa de testeos, presentamos el prototipo de alta fidelidad a la clienta, con el objetivo de tener sus impresiones respecto al contenido, distribución de la información y visualización de la página, antes de la entrega final.
 
 **Aprendizaje**
-
 Para realizar el diseño final, usamos el programa Zeplin para obtener los colores usados en nuestro prototipo y llevar a HTML, CSS y JS.
+
 
 ## Versión Final
 La meta de este proyecto fue diseñar una plataforma web para que los usuarios pudieran acceder a toda la información de los productos, mejorando la experiencia de compra.
@@ -274,13 +297,8 @@ Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente 
 ## Aspectos a trabajar en una nueva versión
 
 - Testeos de usuario en versión movil.
+- Se realizó un ejercicio de Card sorting, sobre arquitectura de la información, pero no se incluyó en este informe porque no fue parte de la planificación de las actividadees a realizar, y solo se realizó el ejercicio con dos personas, siendo necesario al menos 5. Sin embargo nos aportó algunas ideas respecto a la presentación de la información en la página.
 
 ****
 
-Gracias por tomarte el tiempo de leer hasta aqui.
-
-
-
-
-
-
+Gracias por tomarte el tiempo de leer hasta [aqui](https://https://gfycat.com/hardtofindqualifieddouglasfirbarkbeetle).
