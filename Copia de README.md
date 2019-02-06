@@ -2,17 +2,20 @@
 Este corresponde a nuestro primer desafío del track de UX Designer en el Bootcamp de Laboratoria.
 
 ## Visión general del Cliente
+![](https://i.imgur.com/LJuwcFA.png)
+
+
 **@SnackNaturalChile** es un emprendimiento personal de Valentina, nuestra Cliente, que busca promover el cuidado de la salud de las personas mediante alimentos saludables. SnackNatural actualmente funciona como una página de venta de productos mediante la plataforma Instagram, donde promociona, y vende los productos a personas, y tiendas que quieran tener sus productos.  La marca tiene foco en personas deportistas y veganas dada la forma natural y saludable de sus ingredientes y modo de preparación.
 ## Problema
-Actualmente el emprendimiento quiere poder poder resolver la dificultad que tienen las personas de tener toda la información disponible sobre los productos, los tipos de productos, precios, lugares en que se encuentra y puntos de distribución, ya que nuestra clienta utiliza gran cantidad de tiempo, respondiendo consultas que no se traducen en compras.  
+Actualmente el emprendimiento quiere poder poder resolver la dificultad que tienen las personas de tener toda la información disponible sobre los productos: tipos de productos, precios, puntos de distribución, métodos de compra y despacho, ya que nuestra clienta utiliza gran cantidad de tiempo, respondiendo consultas que no se traducen en compras.  
  
 ## Solución
 Crear una plataforma web para que los usuarios puedan acceder a toda la información de los productos, mejorando la experiencia de compra, como de venta de nuestra clienta.
 
 ### Detalles del proyecto
-**Duración:** 2 semanas
+**Duración:** 2 semanas.
 
-**Plataforma:** Responsive (Web y Móvil)
+**Plataforma:** Responsive (Web y Móvil).
 
 **Roles:** Equipo de 2 UX Designers, que participaron en conjunto en todo el proceso de investigación, entrevistas, ideación, sketching, testeos y diseño de la solución final.
 
@@ -38,7 +41,8 @@ Trello Sprint 2
 ### Design Thinking
 ![Design thinking](https://i.imgur.com/iD9TeQP.jpg)
 
-El Design Thinking es una metodología que se enfoca en la creatividad. Su objetivo es aprovechar las habilidades de los profesionales para encontrar soluciones novedosas a las necesidades de las personas. 
+Para el desarrollo de este desafío utilizamos el método **Design Thinking**, que es una metodología que se enfoca en la creatividad. Su objetivo es aprovechar las habilidades de los profesionales para encontrar soluciones novedosas a las necesidades de las personas. 
+
 Tiene 5 etapas, que no son lineales necesariamente, sino que se puede volver atrás e iterar en cualquier momento del proceso.
 
 
@@ -66,9 +70,8 @@ En cuanto al consumo de snacks, **los consumidores latinoamericanos principalmen
 
  
 **Bibliografía**
-Nielsen (2016). Estudio Global de Nielsen sobre ¿Qué hay en nuestra comida y en nuestra mente?. Disponible [aqui.](https://www.nielsen.com/content/dam/nielsenglobal/latam/docs/reports/2016/EstudioGlobal_NuestraComidaYMente.pdf)
-
-Nielsen (2014). Estudio Online de Ventas globales de Sancks. Disponible [aqui.](https://www.nielsen.com/pr/es/press-room/2014/ventas-globales-snacks.html) 
+- Nielsen (2016). Estudio Global de Nielsen sobre ¿Qué hay en nuestra comida y en nuestra mente?. Disponible [aqui.](https://www.nielsen.com/content/dam/nielsenglobal/latam/docs/reports/2016/EstudioGlobal_NuestraComidaYMente.pdf)
+- Nielsen (2014). Estudio Online de Ventas globales de Sancks. Disponible [aqui.](https://www.nielsen.com/pr/es/press-room/2014/ventas-globales-snacks.html) 
 
 **Conclusiones**
 * Ha ocurrido un cambio en las costumbres alimenticias de las personas debido a un aumento de las enfermedades crónicas.
@@ -97,8 +100,10 @@ Para continuar con la investigación, realizamos un benchmarking de los competid
 La misma clienta nos indicó sus dos competidores directos:
 **AllNuts**: Es una tienda que vende mantequillas de productos secos (maní, almendras y variedades).  En su página se puede comprar directo los productos o se pueden revisar las tiendas físicas donde se encuentran sus productos.  Para comprar los productos, tiene un sistema de pago via transferencia y opciones de envío (gratis, santiago, y regiones). Tiene links a facebook e instagram.
 **Manare**: Esta tienda promociona los productos de su marca, no tiene venta de sus productos mediante su página, ni indica los precios.  Se puede revisar las tiendas donde se encuentra, y la posibilidad de convertirse en proveedor de la marca.
+![Benchmark](https://i.imgur.com/lbtFYfD.png)
 
-Link a la carpeta con benchmark https://drive.google.com/drive/u/1/folders/18rLVB2HJtSBmwOXNkHOXy5Ez9w2iC6Ft
+
+Link a la carpeta con [Benchmark.](https://drive.google.com/drive/u/1/folders/18rLVB2HJtSBmwOXNkHOXy5Ez9w2iC6Ft) 
 
 **Conclusiones**
 * Estas dos empresas incluyen la mantequilla de maní como parte de una línea mayor de productos, y están dirigidas a todo tipo de público.
@@ -107,8 +112,8 @@ Link a la carpeta con benchmark https://drive.google.com/drive/u/1/folders/18rLV
 
 
 
-### Entrevista con cliente.
-Guía de entrevista al cliente - Snack Natural Chile
+### Entrevista con cliente
+Se realizó una entrevista con la cliente.
 
 **Objetivos de la entrevista**:
 * Obtener información sobre la empresa, y sus productos de forma más detallada.
@@ -116,7 +121,19 @@ Guía de entrevista al cliente - Snack Natural Chile
 * Conocer el proceso de venta y despacho del cliente.
 * Conocer los pain-points del cliente en el proceso de venta de sus productos.
 
-Link a la [Guia de Entrevista Semiestructurada.](https://docs.google.com/document/d/1pxVKJucbS779ro2QgxiYz9M68hgt4jj2aAserPEkRZo/edit) 
+Algunas preguntas realizadas:
+¿Cuéntanos cómo nace tu emprendimiento? ¿cuándo?
+¿Cómo/dónde elaboras tus productos?
+¿Cómo se contactan los clientes? utilizan un canal por sobre otros? 
+¿Cuál es el perfil de los clientes que compran tu productos? ¿podrías nombrar los últimos 3? han cambiado en el tiempo? ¿cuáles son tus clientes potenciales e ideales?
+¿Has tenido dificultades (ventas, compras inconclusas, devoluciones) que es lo más común, podrías mencionar la última dificultad que te acuerdes?
+¿Que consideras que funciona bien? 
+¿Podrías contactarnos un día típico de @snacknaturalchile? 
+¿Tienes identificadas las marcas son tu competencia? ¿Cuáles son? ¿Qué elementos rescatas, que no te gusta de ellas? ¿Cómo te diferencias?
+¿Cuánto tiempo le dedicas diario/semanal a tu marca, (responder preguntas, subir imagenes, escribir historias)?
+
+
+Acceder a la [Guia de Entrevista Semiestructurada Completa.](https://docs.google.com/document/d/1pxVKJucbS779ro2QgxiYz9M68hgt4jj2aAserPEkRZo/edit) 
 
 **Conclusiones**
 * El público objetivo definido por la clienta se delimita a personas que vivan en las comunas cercanas a su vivienda, debido a los tiempos de despacho y entregas. Ya que ella misma realiza las entregas.  
@@ -166,14 +183,19 @@ En este punto del proceso escribimos todo lo aprendido hasta el momento, del usu
 Los aprendizajes obtenidos del proceso anterior, los agrupamos por temas.
 
 **Insights**
-A partir de esto, elaboramos algunos insights del proceso.
-![Aprendizajes, insight](https://i.imgur.com/GEX41TK.jpg)
+A partir de esto, elaboramos algunos insights del proceso (Ver imagen a continuación).
 
 **How might we…?**
-Ideamos preguntas sobre los insights previos (Cómo podríamos mejorar la experiencia, ayudar a los usuarios…).
+Ideamos preguntas sobre los insights previos (Cómo podríamos mejorar la experiencia, ayudar a los usuarios).
 
 **Ideas**
 Finalmente intentamos dar respuesta a esas preguntas, tratando de resolver los problemas identificados, desde el diseño.
+
+![Aprendizajes, insight](https://i.imgur.com/GEX41TK.jpg)
+
+**Conclusiones**
+
+
 
 ### Historias de usuario
 
@@ -209,26 +231,53 @@ El prototipo y la evaluación del mismo, lo realizamos de modo circular ya que a
 ### Baja Fidelidad
 Realizamos un primer prototipo de baja fidelidad mediante un wireframe a partir de la información previa.
 
-![Wireframe](https://i.imgur.com/MchEFAX.png)
+![](https://i.imgur.com/8wrpTCv.png)
 
 
-Testeo de usuario: Realizamos 4 testeos a usuarios.
-Proceso
-Aprendizajes
+**Testeo de usuario**
+Realizamos 4 testeos a usuarios.
+**Proceso**
+**Aprendizajes**
 
 ### Alta fidelidad
-Luego realizamos un testeo con prototipo de alta fidelidad mediante una maqueta.
-Incluir imagen de figma
-Testeo de usuario: Realizamos 5 testeos a usuarios.
+Luego realizamos un testeo con prototipo de alta fidelidad mediante una maqueta en Figma.
 
-Proceso
-Aprendizajes
 
-Finalmente como parte de la etapa de testeos, presentamos el prototipo de alta fidelidad a la clienta, con el objetivo de tener sus impresiones respecto al contenido, distribución de la información y visualización d<e la página, antes de la entrega final.
-Aprendizajes
+**Testeo de usuarios**
+Realizamos 5 testeos a usuarios.
+
+**Proceso**
+**Aprendizajes**
+
+
+**Testeo con Clienta**
+Finalmente como parte de la etapa de testeos, presentamos el prototipo de alta fidelidad a la clienta, con el objetivo de tener sus impresiones respecto al contenido, distribución de la información y visualización de la página, antes de la entrega final.
+
+**Aprendizaje**
+
+Para realizar el diseño final, usamos el programa Zeplin para obtener los colores usados en nuestro prototipo y llevar a HTML, CSS y JS.
 
 ## Versión Final
-Demo
+La meta de este proyecto fue diseñar una plataforma web para que los usuarios pudieran acceder a toda la información de los productos, mejorando la experiencia de compra.
+
+**Navegador**
+**Información de los productos**
+**Proceso de compra**
+**Footer**
+
+La versión final esta disponible en versión demo.
+
+## Reflexiones
+Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente como del usuario, ponernos en su lugar, y desde ahí pensar en una solución acorde a ellos para crear un sitio que no solo sea bello, sino y por sobretodo útil.  A partir del uso de la metodología de design thinking pudimos ir dando cuenta y justificando las decisiones de cada etapa del proceso, lo cual le da más sustento al producto final.
+
+
+## Aspectos a trabajar en una nueva versión
+
+- Testeos de usuario en versión movil.
+
+****
+
+Gracias por tomarte el tiempo de leer hasta aqui.
 
 
 
