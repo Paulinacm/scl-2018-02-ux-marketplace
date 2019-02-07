@@ -358,3 +358,5 @@ Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente 
 ****
 
 Gracias por tomarte el tiempo de leer hasta aqui.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJBA8lcw1H3C9qyDGo43QeIXoRNWLvjoxJ_pTgQ0M5zjGIt3nZ1XAPYLg7wVdlQPytZiPZHhqItUdP/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
