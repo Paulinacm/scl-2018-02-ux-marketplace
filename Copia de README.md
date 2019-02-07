@@ -1,7 +1,4 @@
-
-
-
-
+![Titulo](https://i.imgur.com/UVXqYGj.png)
 
 # Market Place
 Este corresponde a nuestro primer desafío del track de UX Designer en el Bootcamp de Laboratoria.
@@ -11,9 +8,9 @@ Este corresponde a nuestro primer desafío del track de UX Designer en el Bootca
 Pagina de Instagram de la cliente.
 
 
-**@SnackNaturalChile** es un emprendimiento personal de Valentina, nuestra Cliente, que busca promover el cuidado de la salud de las personas mediante alimentos saludables. SnackNatural actualmente funciona como una página de venta de productos mediante la plataforma Instagram, donde promociona, y vende los productos a personas, y tiendas que quieran tener sus productos.  La marca tiene foco en personas deportistas y veganas dada la forma natural y saludable de sus ingredientes y modo de preparación.
+**@SnackNaturalChile** es un emprendimiento personal de Valentina, nuestra Cliente, que busca promover el cuidado de la salud de las personas mediante alimentos saludables. SnackNatural actualmente funciona como una página de venta de productos mediante la plataforma Instagram, donde promociona, y vende los productos a personasy tiendas que quieran tener sus productos.  La marca tiene foco en personas deportistas y veganas dada la forma natural y saludable de sus ingredientes y modo de preparación.
 ## Problema
-Actualmente el emprendimiento quiere poder poder resolver la dificultad que tienen las personas de tener toda la información disponible sobre los productos: tipos de productos, precios, puntos de distribución, métodos de compra y despacho, ya que nuestra clienta utiliza gran cantidad de tiempo, respondiendo consultas que no se traducen en compras.  
+Actualmente el emprendimiento quiere  poder resolver la dificultad que tienen las personas de tener toda la información disponible sobre los productos: tipos de productos, precios, puntos de distribución, métodos de compra y despacho, ya que nuestra clienta utiliza gran cantidad de tiempo, respondiendo consultas que no se traducen en compras, además de necesitar informar claramente los puntos de entrega y despacho ya que se mueve sólo por un sector específico de la ciudad.  
  
 ## Solución
 Crear una plataforma web para que los usuarios puedan acceder a toda la información de los productos, mejorando la experiencia de compra, como de venta de nuestra clienta.
@@ -34,6 +31,7 @@ Crear una plataforma web para que los usuarios puedan acceder a toda la informac
 # Proceso de Investigación
 Para iniciar el proceso de investigación planificamos las actividades elegidas a través de Trello, realizando de manera equitativa las actividades a cubrir por el equipo y el tiempo que nos iba a tomar.
 Link a [Trello.](https://https://trello.com/b/9j6ijriO/marketplace) 
+Link a Fotografías de planificación en [post-it](https://drive.google.com/drive/u/1/folders/1PvY2YeSvNdL05rf6SBXTHdBstnHamwYO).
 
 Trello Sprint 1
 ![](https://i.imgur.com/PtdEhlY.png)
@@ -71,6 +69,7 @@ Fuente: The Nielsen Company
 **Los consumidores están adoptando una mentalidad de volver a lo básico**, centrándose en ingredientes simples y menos alimentos procesados. Más de la mitad de los consumidores dicen que están evitando ingredientes artificiales, hormonas o antibióticos, los organismos modificados genéticamente (OMG) y bisfenol A (BPA).
 
 ![Atributos saludables](https://i.imgur.com/oYdZxhc.png)
+
 En cuanto al consumo de snacks, **los consumidores latinoamericanos principalmente consumen snacks por placer** (56%), para satisfacer un antojo (37%), para compartir en reuniones familiares o con amigos (33%), como premio (32 %), por nutrición (29%) y para satisfacer el hambre entre comidas (28%).  Señalando algunos atributos como muy importantes a la hora de elegir sus snacks (todo natural, sin colorantes, sin sabores artificiales, entre otros (ver gráfico).
 
 
@@ -86,30 +85,35 @@ En cuanto al consumo de snacks, **los consumidores latinoamericanos principalmen
 
 
 ### Tienda Snack Natural Chile
-Instagram
-Desde cuándo, tipo de publicaciones.
-Historias
-Venta
-Hashtag
+La **plataforma de ventas** de nuestra clienta es Instagram, y a traves de esta presenta los productos, las historias y recibe consultas y pedidos.  
+Tiene otras formas de contacto, que las señala en la misma página, como whatsapp y correo electrónico, pero en la entrevista señala que le acomoda mensajes desde el mismo Instagram.
 
-Observación contextual
-Análisis de los usuarios
-Preguntas
-Interaccion cliente-usuario
+El **inicio de las publicaciones** fue en abril del 2018. Hasta la fecha tiene un total de 89 publicaciones (febrero, 2019). Lo que da  aproximadamente 8 publicaciones mensuales.
+
+Tiene 3 **tipos de publicaciones**:
+promoción de los productos (mantequilla de maní y barras de proteína).
+recetas en que se utiliza su producto
+consejos o tips saludables, sobre los beneficios de consumir los productos que vende.
+Venta, no hay mucha interacción con clientes en la plataforma de Instagram, las personas principalmente señalan lo rico que se ven las preparaciones de las recetas, y preguntan por los valores de los productos, a lo que se le responde solicitando que se envíe un mensaje directo para enviar valores.
+
+Los **hashtag** más utilizados por la tienda son:
+#snacknaturalchile #snickers #delish #fitness #santiago #vidasana #breakfast #waffles #peanutbutter  #foodporn  #mantequillademani #snack #easyrecipes #fitness  #emprendimiento #crossfit #saludable 
+
 
 
 ### Benchmark
 Para continuar con la investigación, realizamos un benchmarking de los competidores y empresas con buenas prácticas en venta de comida saludable en Santiago.
 
+La misma clienta nos indicó dos de sus competidores directos:
 
-
-La misma clienta nos indicó sus dos competidores directos:
 **AllNuts**: Es una tienda que vende mantequillas de productos secos (maní, almendras y variedades).  En su página se puede comprar directo los productos o se pueden revisar las tiendas físicas donde se encuentran sus productos.  Para comprar los productos, tiene un sistema de pago via transferencia y opciones de envío (gratis, santiago, y regiones). Tiene links a facebook e instagram.
+
 **Manare**: Esta tienda promociona los productos de su marca, no tiene venta de sus productos mediante su página, ni indica los precios.  Se puede revisar las tiendas donde se encuentra, y la posibilidad de convertirse en proveedor de la marca.
+
 ![Benchmark](https://i.imgur.com/lbtFYfD.png)
 
 
-Link a la carpeta con [Benchmark.](https://drive.google.com/drive/u/1/folders/18rLVB2HJtSBmwOXNkHOXy5Ez9w2iC6Ft) 
+Link a la carpeta con imágenes de las páginas del [Benchmark.](https://drive.google.com/drive/u/1/folders/18rLVB2HJtSBmwOXNkHOXy5Ez9w2iC6Ft) 
 
 **Conclusiones**
 * Estas dos empresas incluyen la mantequilla de maní como parte de una línea mayor de productos, y están dirigidas a todo tipo de público.
@@ -119,7 +123,7 @@ Link a la carpeta con [Benchmark.](https://drive.google.com/drive/u/1/folders/18
 
 
 ### Entrevista con cliente
-Se realizó una entrevista con la cliente.
+Se realizó una entrevista con la cliente al inicio del proyecto.
 
 **Objetivos de la entrevista**:
 * Obtener información sobre la empresa, y sus productos de forma más detallada.
@@ -127,7 +131,7 @@ Se realizó una entrevista con la cliente.
 * Conocer el proceso de venta y despacho del cliente.
 * Conocer los pain-points del cliente en el proceso de venta de sus productos.
 
-Algunas preguntas realizadas:
+**Algunas preguntas realizadas**:
 ¿Cuéntanos cómo nace tu emprendimiento? ¿cuándo?
 ¿Cómo/dónde elaboras tus productos?
 ¿Cómo se contactan los clientes? utilizan un canal por sobre otros? 
@@ -173,6 +177,7 @@ Link a CJM https://docs.google.com/presentation/d/1MR3NvgOd-MaD_AcsHGxweHgswUfo7
 
 
 
+
 ## Etapa 3 - Idear
 ![Idear](https://i.imgur.com/uzwbLH4.jpg)
 
@@ -181,7 +186,7 @@ A partir del proceso de investigación llevado a cabo hasta esta etapa, llevamos
 Continuando con el método del design thinking analizamos la información recabada a partir de los siguientes procesos, utilizando lápiz, papel y post it.
 
 **Aprendizajes**
-En este punto del proceso escribimos todo lo aprendido hasta el momento, del usuario, del cliente, y de la competencia.
+En este punto del proceso escribimos todo lo aprendido hasta el momento, del usuario, del cliente, y de la competencia ([Link](https://drive.google.com/drive/u/1/folders/1vFb6f-jP_6gZhR1h5X_lqM29q3NaYVwQ) a fotografías del mismo proceso).
 
 ![Aprendizajes](https://i.imgur.com/DJVyyXq.jpg)
 
@@ -199,8 +204,10 @@ Finalmente intentamos dar respuesta a esas preguntas, tratando de resolver los p
 
 ![Aprendizajes, insight](https://i.imgur.com/GEX41TK.jpg)
 
-**Conclusiones**
+[Link ](https://drive.google.com/drive/u/1/folders/164TCVpBW7nASq_DTffa85uD1KBE-hiqa)a fotografías del proceso en post-it.
 
+**Conclusiones**
+A partir de este ejercicio pudimos focalizarnos en los puntos que nos íbamos a focalizar en resolver mediante el desarrollo de la página web.  De este modo nos decidimos por enfocarnos en **facilitar información acerca del producto** (ingredientes, beneficios, recetas, entre otros.) y en **facilitar el proceso de compra** (pago y despacho).
 
 
 ### Historias de usuario
@@ -208,8 +215,10 @@ Finalmente intentamos dar respuesta a esas preguntas, tratando de resolver los p
 
 ![Historias de Usuario](https://i.imgur.com/ld1W5tA.jpg)
 
+Link a fotos de [historias de usuario](https://https://drive.google.com/drive/u/1/folders/1Z_04a0Kb6fuznGBjfWM0aggbePvKW2h3) en post it.
+
 **Conclusiones**
-En este proceso llegamos a la conclusión de que le prestaremos atención  a x puntos claves durante estos sprints:
+Al igual que el proceso anterior, en este ejercicio de realizar las historias de usuario nos sirviío para focalizar los esfuerzos prestando atención a ciertos puntos claves:
 
 - Producto (Recetas, tips, envase y presentación,ingredientes, información nutricional, producción).
 - Características de usuarios (veganos, deportistas, general).
@@ -217,13 +226,17 @@ En este proceso llegamos a la conclusión de que le prestaremos atención  a x p
 
 
 
-### Arquitectura de la información
-**Card Sorting**
-Se realizó el ejercicio de card sorting con 2 usuarios.
+### Flow Chart
+Link a [Flujo](https://drive.google.com/drive/u/1/folders/1RShhLSp3x5WzK330eTFSTy5SZ3Y5exij) 
+f
+f
+f
+f
+f
 
-fotos de cardsorting
+f
+f
 
-Conclusiones
 
 
 
@@ -272,11 +285,44 @@ Luego realizamos un testeo con prototipo de alta fidelidad mediante una maqueta 
 **Aprendizajes**
 
 
+### Test de 5 segundos
+Se realizó el test de 5 segundos mediante una plataforma web a 22 usuarios. Este test sirve para conocer si estamos comunicando a nuestros usuarios de forma efectiva el mensaje que queremos transmitir y para evaluar las primeras impresiones de los usuarios en este caso de la página web.
+Resultados del testeo en el siguiente [link.](https://app.usabilityhub.com/tests/e374b357087/results/494a0a9766f9)
+
+**Las preguntas realizadas y sus respuestas más comunes**
+1. ¿De qué se trata la página web que has visto?
+Comida, mantequilla de maní.
+3. ¿Recuerdas la marca o nombre del sitio?
+el 40% recordaba el nombre de la marca.
+5. ¿Qué fue lo primero que viste?
+Los envases/frascos de vidrio.
+7. ¿Qué te llamó la atención en especial?
+Los colores, bonito, etiqueta, presentación.
+
+Luego de iniciado el testo se decidió por incoporar una última pregunta, pensando en el grupo objetivo de esta página.
+
+8. ¿A qué público crees que está dirigida esta página?
+Todo público, que quieran algo natural
+
+**Aprendizajes**
+* La web es efectiva en transmitir que se trata de una página de venta de productos alimenticios, en especial mantequilla de maní.
+* Las personas recuerdan la marca, y les llama la atención la presentación de la misma.
+* No queda clara la intención de llegar a un público especialmente deportista o vegano. Aunque consideramos relevante tomar en consideración este punto, quedará pendiente para una segunda etapa de mejoras a la web, debido a una priorización del tiempo.
+
+
 
 ### Testeo con Clienta
-Finalmente como parte de la etapa de testeos, presentamos el prototipo de alta fidelidad a la clienta, con el objetivo de tener sus impresiones respecto al contenido, distribución de la información y visualización de la página, antes de la entrega final.
+Finalmente como parte de la etapa de testeos, presentamos el prototipo de alta fidelidad a la clienta, con el objetivo de tener sus impresiones respecto al contenido, distribución de la información y visualización de la página, antes de la entrega final. [Link](https://www.dropbox.com/sh/j9d9xcta9ywunn6/AACmhb6U8NKBYLqYd5RsC4nFa?dl=0) a video de la entrevista.
 
-**Aprendizaje**
+
+
+**Aprendizajes**
+A partir de esta entrevista se incorporaron algunos cambios que la clienta consideraba necesaria a partir de su experiencia con otras páginas similares y su propia forma de nteractuar con los clientes.
+* La página mostraba un tamaño de las mantequillas y la posibilidad de cambiar el formato y que cambie el precio, ahora que el botón para cambiar el formato tenga un nombre y no esté vacío (*elige tu formato*).
+* Añadir un botón a una página de *Contáctanos*.
+* En vez de indicar Distribuye que diga *Venta mayorista*.
+* No incluir un carrito de compras porque la cliente ya tiene una solución mediante *virtual post*.
+
 Para realizar el diseño final, usamos el programa Zeplin para obtener los colores usados en nuestro prototipo y llevar a HTML, CSS y JS.
 
 
@@ -296,9 +342,10 @@ Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente 
 
 ## Aspectos a trabajar en una nueva versión
 
-- Testeos de usuario en versión movil.
-- Se realizó un ejercicio de Card sorting, sobre arquitectura de la información, pero no se incluyó en este informe porque no fue parte de la planificación de las actividadees a realizar, y solo se realizó el ejercicio con dos personas, siendo necesario al menos 5. Sin embargo nos aportó algunas ideas respecto a la presentación de la información en la página.
+- Se realizó un ejercicio de Card sorting, sobre arquitectura de la información, pero no se incluyó en este informe porque no fue parte de la planificación de las actividadees a realizar, y solo se realizó el ejercicio con dos personas, siendo necesario al menos 5. Sin embargo nos aportó algunas ideas respecto a la presentación de la información en la página. (Link a fotografías del ejercicio de [Card Sorting](https://drive.google.com/drive/u/1/folders/1zR9OwAZy7BNP1jrvWugg0Qb8oeXZRkYS))
+- Considerar las mejoras del test de 5 segundos, para dejar más clara en la pantalla del landing page que se trata de alimentos especialmente dirigidos a deportistas y veganos.
+- Testeos de usuario en versión movil, ya que consideramos que puede haber elementos a incorporar con este tipo de testeo.
 
 ****
 
-Gracias por tomarte el tiempo de leer hasta [aqui](https://https://gfycat.com/hardtofindqualifieddouglasfirbarkbeetle).
+Gracias por tomarte el tiempo de leer hasta aqui.
