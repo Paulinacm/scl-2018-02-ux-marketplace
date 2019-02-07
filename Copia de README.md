@@ -171,10 +171,14 @@ Con la finalidad de identificar y comprender mejor a los usuarios de la tienda, 
 
 
 ### Costumer journey Map
-Definimos la experiencia de los usuarios mediante el CJM,
-Link a CJM https://docs.google.com/presentation/d/1MR3NvgOd-MaD_AcsHGxweHgswUfo7LEgBpm6H395xU0/edit
+Definimos el flujo de la experiencia de los usuarios mediante el CJM.
+![](https://i.imgur.com/3uKuoju.jpg)
 
 
+### Aprendizajes
+* Hay 3 usuarios tipo principales de este producto.
+* El momento de **elegir el producto** es un momento de mayor duda/ansiedad de los usuarios, ya que tiene que elegir una mantequilla ¿por qué elegir este producto? ¿por qué elegir ésta marca?, ver información sobre los métodos de despacho y de pago que tiene la página y si estos le acomodan.  
+Hay mucha información que tiene que ver y resolver antes de realizar la compra
 
 
 
@@ -277,6 +281,8 @@ Luego realizamos un testeo con prototipo de alta fidelidad mediante una maqueta 
 
 
 **Testeo de usuarios**
+Se realizaron 3 testeos a usuarios, 3 fueron grabados, y los demás se tienen fotogra
+[Link](https://useloom.com/share/folder/9ca41c8908414b7b859f53daa9fcee6a) a videos con testeos de usuarios.
 
 
 **Proceso**
@@ -312,7 +318,7 @@ Todo público, que quieran algo natural
 
 
 ### Testeo con Clienta
-Finalmente como parte de la etapa de testeos, presentamos el prototipo de alta fidelidad a la clienta, con el objetivo de tener sus impresiones respecto al contenido, distribución de la información y visualización de la página, antes de la entrega final. [Link](https://www.dropbox.com/sh/j9d9xcta9ywunn6/AACmhb6U8NKBYLqYd5RsC4nFa?dl=0) a video de la entrevista.
+Finalmente como parte de la etapa de testeos, presentamos el prototipo de alta fidelidad a la clienta, con el objetivo de tener sus impresiones respecto al contenido, distribución de la información y visualización de la página, antes de la entrega final. [Link](https://www.dropbox.com/preview/Market%20Place/Entrevista%20para%20testeo%20prototipo%20con%20clienta.mov?role=personal) a video de la entrevista.
 
 
 
@@ -329,21 +335,24 @@ Para realizar el diseño final, usamos el programa Zeplin para obtener los color
 ## Versión Final
 La meta de este proyecto fue diseñar una plataforma web para que los usuarios pudieran acceder a toda la información de los productos, mejorando la experiencia de compra.
 
-**Navegador**
+
 **Información de los productos**
+
+
 **Proceso de compra**
-**Footer**
+
+
 
 La versión final esta disponible en versión demo.
 
 ## Reflexiones
-Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente como del usuario, ponernos en su lugar, y desde ahí pensar en una solución acorde a ellos para crear un sitio que no solo sea bello, sino y por sobretodo útil.  A partir del uso de la metodología de design thinking pudimos ir dando cuenta y justificando las decisiones de cada etapa del proceso, lo cual le da más sustento al producto final.
+Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente como del usuario, ponernos en su lugar, y desde ahí pensar en una solución acorde a ellos para crear un sitio que no solo sea bello, sino y por sobretodo útil.  A partir del uso de la metodología de *Design thinking* pudimos ir dando cuenta y justificando las decisiones de cada etapa del proceso, lo cual le da más sustento al producto final.
 
 
 ## Aspectos a trabajar en una nueva versión
 
-- Se realizó un ejercicio de Card sorting, sobre arquitectura de la información, pero no se incluyó en este informe porque no fue parte de la planificación de las actividadees a realizar, y solo se realizó el ejercicio con dos personas, siendo necesario al menos 5. Sin embargo nos aportó algunas ideas respecto a la presentación de la información en la página. (Link a fotografías del ejercicio de [Card Sorting](https://drive.google.com/drive/u/1/folders/1zR9OwAZy7BNP1jrvWugg0Qb8oeXZRkYS))
-- Considerar las mejoras del test de 5 segundos, para dejar más clara en la pantalla del landing page que se trata de alimentos especialmente dirigidos a deportistas y veganos.
+- Se realizó un ejercicio de Card sorting, sobre arquitectura de la información, pero no se incluyó en este informe porque no fue parte de la planificación de las actividadees a realizar, y solo se hizo el ejercicio con dos personas, siendo necesario al menos 5. Sin embargo nos aportó algunas ideas respecto a la presentación de la información en la página. (Link a fotografías del ejercicio de [Card Sorting](https://drive.google.com/drive/u/1/folders/1zR9OwAZy7BNP1jrvWugg0Qb8oeXZRkYS))
+- También faltó considerar las mejoras del test de 5 segundos, para dejar más clara en la pantalla del landing page que se trata de alimentos especialmente dirigidos a deportistas y veganos.
 - Testeos de usuario en versión movil, ya que consideramos que puede haber elementos a incorporar con este tipo de testeo.
 
 ****
