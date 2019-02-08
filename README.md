@@ -363,8 +363,8 @@ Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente 
 
 ****
 
-Gracias por tomarte el tiempo de leer hasta aqui.
+Les dejamos el [archivo con información anexa](https://drive.google.com/drive/u/1/folders/1ni2bE6YvPP_v4Hs-X3W122_E9mMEuRCY) del proyecto, y la [presentación final](https://docs.google.com/presentation/d/1NSNEsmljE4-DsBkQ65la8M5GcCZdlMEt-b2l36ylpPg/edit#slide=id.g4f5b500c03_0_102) del proyecto.
 
 
-Les dejamos el [archivo con información anexa](https://drive.google.com/drive/u/1/folders/1ni2bE6YvPP_v4Hs-X3W122_E9mMEuRCY) del proyecto, y la presentación final del proyecto.
-<iframe src="https://docs.google.com/presentation/d/1NSNEsmljE4-DsBkQ65la8M5GcCZdlMEt-b2l36ylpPg/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+Gracias por tomarse el tiempo de leer hasta aqui.
+
