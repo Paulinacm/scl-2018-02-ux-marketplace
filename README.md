@@ -378,6 +378,7 @@ Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente 
 
 Les dejamos el [archivo con información anexa](https://drive.google.com/drive/u/1/folders/1ni2bE6YvPP_v4Hs-X3W122_E9mMEuRCY) del proyecto, y el link a la [presentación final](https://docs.google.com/presentation/d/1NSNEsmljE4-DsBkQ65la8M5GcCZdlMEt-b2l36ylpPg/edit#slide=id.g4f5b500c03_0_102) del proyecto.
 
+Video presentando este README en Loom https://www.useloom.com/share/da4e77fba9084959939c1eae0f907b1a
 ****
 
 ## Información para Desarrolladores 
@@ -387,7 +388,7 @@ Para realizar el diseño final, usamos el programa [Zeplin disponible aquí](htt
 
 
 
-Video a Loom https://www.useloom.com/share/da4e77fba9084959939c1eae0f907b1a
+
 
 Gracias por tomarse el tiempo de leer hasta aqui.
 
