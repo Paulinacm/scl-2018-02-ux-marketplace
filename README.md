@@ -1,5 +1,3 @@
-![Titulo](https://i.imgur.com/UVXqYGj.png)
-
 # Market Place
 Este corresponde a nuestro primer desafío del track de UX Designer en el Bootcamp de Laboratoria.
 
@@ -23,9 +21,9 @@ Crear una plataforma web para que los usuarios puedan acceder a toda la informac
 
 **Roles:** [Francisca](https://github.com/FranciscaMora) y [Paulina](https://github.com/Paulinacm). Equipo de 2 UX Designers, que participaron en conjunto en todo el proceso de investigación, entrevistas, ideación, sketching, testeos y diseño de la solución final.
 
-**Herramientas utilizadas:** Lápiz y papel, post-it, Google Forms, Google Drive, Trello, Figma, Zeplin.
+**Herramientas utilizadas:** Lápiz y papel, post-it, Google Forms, Google Drive, Trello, Loom, Figma, Zeplin.
 
-**Herramientas UX utilizadas:** User persona,customer journey map, user research, análisis de la competencia, mapa del sitio, user flows, wireframes, usability testing, y prototyping.
+**Herramientas UX utilizadas:** User persona,customer journey map, user research, análisis de la competencia, mapa del sitio, user flow, wireframes, prototyping y  testeo de usabilidad.
 
 *****
 
@@ -134,15 +132,15 @@ Se realizó una entrevista con la clienta al inicio del proyecto.
 * Conocer los pain points del cliente en el proceso de venta de sus productos.
 
 **Algunas preguntas realizadas**:
-¿Cuéntanos cómo nace tu emprendimiento?
-¿Cómo/dónde elaboras tus productos?
-¿Cómo se contactan los clientes? utilizan un canal por sobre otros? 
-¿Cuál es el perfil de los clientes que compran tu productos? ¿podrías nombrar los últimos 3? han cambiado en el tiempo? 
+¿Cuéntanos cómo nace tu emprendimiento?  
+¿Cómo/dónde elaboras tus productos?  
+¿Cómo se contactan los clientes? utilizan un canal por sobre otros?   
+¿Cuál es el perfil de los clientes que compran tu productos? ¿podrías nombrar los últimos 3? han cambiado en el tiempo?   
 ¿cuáles son tus clientes potenciales e ideales?
-¿Has tenido dificultades (ventas, compras inconclusas, devoluciones) 
-¿Que consideras que funciona bien? 
-¿Tienes identificadas las marcas son tu competencia? ¿Cuáles son? ¿Qué elementos rescatas, que no te gusta de ellas? ¿Cómo te diferencias?
-¿Cuánto tiempo le dedicas diario/semanal a tu marca, (responder preguntas, subir imagenes, escribir historias)?
+¿Has tenido dificultades (ventas, compras inconclusas, devoluciones)   
+¿Que consideras que funciona bien?   
+¿Tienes identificadas las marcas son tu competencia? ¿Cuáles son? ¿Qué elementos rescatas, que no te gusta de ellas? ¿Cómo te diferencias?  
+¿Cuánto tiempo le dedicas diario/semanal a tu marca, (responder preguntas, subir imagenes, escribir historias)?  
 
 
 Acceder a la [Guia de Entrevista Semiestructurada Completa.](https://docs.google.com/document/d/1pxVKJucbS779ro2QgxiYz9M68hgt4jj2aAserPEkRZo/edit) 
@@ -233,12 +231,21 @@ Al igual que el proceso anterior, en este ejercicio de realizar las historias de
 
 
 
+### Mapa del sitio
+Elaboramos un diagrama del mapa sitio.
+Link a [Mapa](https://https://drive.google.com/drive/u/1/folders/1RShhLSp3x5WzK330eTFSTy5SZ3Y5exij) original y a continuación una imagen del mapa actual.
+
+![](https://i.imgur.com/HGxDMsD.jpg)
+
+
 ### Flow Chart
-Elaboramos un diagrama de flujo del sitio.
-Link a [Flujo](https://drive.google.com/drive/u/1/folders/1RShhLSp3x5WzK330eTFSTy5SZ3Y5exij) 
+f
+f
+f
+f
+f
 
-
-
+f
 
 
 ## Etapa 4 - Prototipar y Etapa 5 - Evaluar
@@ -271,11 +278,11 @@ Se solicitó a 4 usuarios que utilizaran la version en wireframe:
 
 
 ### Alta fidelidad
-Luego realizamos un testeo con prototipo de alta fidelidad mediante una maqueta en Figma.
+Realizamos testeo de usuarios con prototipos de alta fidelidad mediante maquetas en Figma.
 
 
 **Testeo de usuarios**
-Se realizaron 3 testeos a usuarios, 3 fueron grabados, y a los demás se les tomó fotografías durante el testeo.
+Algunos de los testeos fueron grabados con Loom, y los demás testeos se les tomó fotografías.
 [Link](https://useloom.com/share/folder/9ca41c8908414b7b859f53daa9fcee6a) a videos con testeos de usuarios.
 
 
@@ -285,14 +292,14 @@ Se les pidió a los usuarios las siguientes tareas:
 2. Se les indicó realizaran una tarea, la de comprar una mantequilla de maní.
 3. Nos aportaran elementos sobre qué esperaría encontrar en cada botón.
 
-**Aprendizajes**
-- Respecto al Carrito de compras, aprendimos que debemos facilitar el proceso de compra con el carrito.  Con pocos clicks e informacion sobre la cantidad de objetovs, valor total y posibilidad de eliminar productos.
+**Aprendizajes del testeo**
+- Respecto al Carrito de compras, aprendimos que debemos facilitar el proceso de compra con el carrito.  Con pocos clicks e información sobre la cantidad de productos, valor total y posibilidad de eliminar productos.
 > “Generalmente en las  páginas el carrito es confuso,  mientras menos clicks mejor. Ojalá en la sección del carrito se pueda eliminar fácilmente la compra”. 
-- Respecto del precio: Indicar el precio en cada producto, y en el carrito de compra, como del total de los productos incluidos en el carrito.
+- Indicar el precio en cada producto, y en el carrito de compra, como del total de los productos incluidos en el carrito.
 - Elementos valorados por los usuarios: sección Recetas, contáctanos.
-Indicar dónde queda la empresa (comuna, ciudad, pais).
 - No queda claro que la página es scrolable y que carrusel se mueve.
 - Interfaz es clara que se trata de una página de venta de productos de alimentos.
+
 
 ### Test de 5 segundos
 Se realizó el test de 5 segundos mediante una plataforma web a 22 usuarios. Este test sirve para conocer si estamos comunicando a nuestros usuarios de forma efectiva el mensaje que queremos transmitir y para evaluar las primeras impresiones de los usuarios en este caso de la página web.
@@ -332,8 +339,17 @@ A partir de esta entrevista se incorporaron algunos cambios que la clienta consi
 * En vez de indicar Distribuye que diga *Venta mayorista*.
 * No incluir un carrito de compras porque la cliente ya tiene una solución mediante *virtual post*.
 
-### Información para Desarrolladores (pronto disponible)
-Para realizar el diseño final, usaremos el programa Zeplin para obtener los colores usados en nuestro prototipo y llevar a HTML, CSS y JS.
+
+### Testeo con usuarios 2.0
+Al finalizar esta etapa se iteró en el diseño del prototipo en Figma y se volvió a realizar testeos con usuarios.
+Ver videos en [Loom 1](https://www.useloom.com/share/b2d91363371a4af39619ac00bb9b19ad), [Loom 2,](https://www.useloom.com/share/4513e21e934346f1995ab29eb185add4 ) y Video en [Google Drive](https://drive.google.com/open?id=1EjqOq1tfc9_019_wUjxG-Fb-qvrrsDme).
+
+
+**Aprendizajes de la segunda serie de testeos**
+- Siguen ocurriendo dificulades respecto a que no queda claro que la página es scrolable a pesar de haber hecho modificaciones en ese punto.
+- No queda claro que los productos tienen distribución en tienda física.
+- Interfaz se mantiene clara que se trata de una página de venta de productos de alimentos.
+
 
 
 ## Versión Final
@@ -358,13 +374,21 @@ Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente 
 
 - Se realizó un ejercicio de Card sorting, sobre arquitectura de la información, pero no se incluyó en este informe porque no fue parte de la planificación de las actividadees a realizar, y solo se hizo el ejercicio con dos personas, siendo necesario al menos 5. Sin embargo nos aportó algunas ideas respecto a la presentación de la información en la página. (Link a fotografías del ejercicio de [Card Sorting](https://drive.google.com/drive/u/1/folders/1zR9OwAZy7BNP1jrvWugg0Qb8oeXZRkYS))
 - También faltó considerar las mejoras del test de 5 segundos, para dejar más clara en la pantalla del landing page que se trata de alimentos especialmente dirigidos a deportistas y veganos.
-- En el Testeo a usuarios aparecieron varios elementos a considerar, resolvimos los que consideramos más relevantes de acuerdo a la consistencia entre testeos, pero dejamos fuera otros.  Sin embargo luego del testeo y con las nuevas mejoras al sitio, creemos necesario volver a testear el sitio con sus nuevas características e iterar a partir de ellos.
 - Testeos de usuario en versión movil, ya que consideramos que puede haber elementos a incorporar con este tipo de testeo.
+
+Les dejamos el [archivo con información anexa](https://drive.google.com/drive/u/1/folders/1ni2bE6YvPP_v4Hs-X3W122_E9mMEuRCY) del proyecto, y el link a la [presentación final](https://docs.google.com/presentation/d/1NSNEsmljE4-DsBkQ65la8M5GcCZdlMEt-b2l36ylpPg/edit#slide=id.g4f5b500c03_0_102) del proyecto.
 
 ****
 
-Les dejamos el [archivo con información anexa](https://drive.google.com/drive/u/1/folders/1ni2bE6YvPP_v4Hs-X3W122_E9mMEuRCY) del proyecto, y la [presentación final](https://docs.google.com/presentation/d/1NSNEsmljE4-DsBkQ65la8M5GcCZdlMEt-b2l36ylpPg/edit#slide=id.g4f5b500c03_0_102) del proyecto.
+## Información para Desarrolladores 
+Para realizar el diseño final, usamos el programa [Zeplin disponible aquí](https://scene.zeplin.io/project/5c4884e635c1a337cdb26f84) y llevar a código HTML, CSS y JS.
+
+
+
+
 
 
 Gracias por tomarse el tiempo de leer hasta aqui.
+
+
 
