@@ -387,6 +387,7 @@ Para realizar el diseño final, usamos el programa [Zeplin disponible aquí](htt
 
 
 
+Video a Loom https://www.useloom.com/share/da4e77fba9084959939c1eae0f907b1a
 
 Gracias por tomarse el tiempo de leer hasta aqui.
 
