@@ -8,16 +8,10 @@ Este corresponde a nuestro primer desafío del track de UX Designer en el Bootca
 Pagina de Instagram de la cliente.
 
 
-<<<<<<< HEAD
-**@SnackNaturalChile** es un emprendimiento personal de Valentina, nuestra Cliente, que busca promover el cuidado de la salud de las personas mediante alimentos saludables. SnackNatural actualmente funciona como una página de venta de productos mediante la plataforma Instagram, donde promociona, y vende los productos a personasy tiendas que quieran tener sus productos.  La marca tiene foco en personas deportistas y veganas dada la forma natural y saludable de sus ingredientes y modo de preparación.
-## Problema
-Actualmente el emprendimiento quiere  poder resolver la dificultad que tienen las personas de tener toda la información disponible sobre los productos: tipos de productos, precios, puntos de distribución, métodos de compra y despacho, ya que nuestra clienta utiliza gran cantidad de tiempo, respondiendo consultas que no se traducen en compras, además de necesitar informar claramente los puntos de entrega y despacho ya que se mueve sólo por un sector específico de la ciudad.  
-=======
 **@SnackNaturalChile** es un emprendimiento personal de Valentina, nuestra Cliente, que busca promover el cuidado de la salud de las personas mediante alimentos saludables. SnackNatural actualmente funciona como una página de venta de productos mediante la plataforma Instagram, donde promociona, y vende los productos a personas y tiendas que quieran tener sus productos.  La marca tiene foco en personas deportistas y veganas dada la forma natural y saludable de sus ingredientes y modo de preparación.
 
 ## Problema
 Actualmente el emprendimiento quiere poder resolver la dificultad que tienen las personas de tener toda la información disponible sobre los productos: tipos de productos, precios, puntos de distribución, métodos de compra y despacho, ya que nuestra clienta utiliza gran cantidad de tiempo, respondiendo consultas que no se traducen en compras, además de necesitar informar claramente los puntos de entrega y despacho ya que se mueve sólo por un sector específico de la ciudad.  
->>>>>>> origin/master
  
 ## Solución
 Crear una plataforma web para que los usuarios puedan acceder a toda la información de los productos, mejorando la experiencia de compra, como de venta de nuestra clienta.
@@ -27,11 +21,7 @@ Crear una plataforma web para que los usuarios puedan acceder a toda la informac
 
 **Plataforma:** Responsive (Web y Móvil).
 
-<<<<<<< HEAD
-**Roles:** Equipo de 2 UX Designers, que participaron en conjunto en todo el proceso de investigación, entrevistas, ideación, sketching, testeos y diseño de la solución final.
-=======
 **Roles:** [Francisca](https://github.com/FranciscaMora) y [Paulina](https://github.com/Paulinacm). Equipo de 2 UX Designers, que participaron en conjunto en todo el proceso de investigación, entrevistas, ideación, sketching, testeos y diseño de la solución final.
->>>>>>> origin/master
 
 **Herramientas utilizadas:** Lápiz y papel, post-it, Google Forms, Google Drive, Trello, Figma, Zeplin.
 
@@ -41,11 +31,7 @@ Crear una plataforma web para que los usuarios puedan acceder a toda la informac
 
 # Proceso de Investigación
 Para iniciar el proceso de investigación planificamos las actividades elegidas a través de Trello, realizando de manera equitativa las actividades a cubrir por el equipo y el tiempo que nos iba a tomar.
-<<<<<<< HEAD
-Link a [Trello.](https://https://trello.com/b/9j6ijriO/marketplace) 
-=======
 Link a [Trello](https://https://trello.com/b/9j6ijriO/marketplace) actualizado.
->>>>>>> origin/master
 Link a Fotografías de planificación en [post-it](https://drive.google.com/drive/u/1/folders/1PvY2YeSvNdL05rf6SBXTHdBstnHamwYO).
 
 Trello Sprint 1
@@ -62,11 +48,7 @@ Trello Sprint 2
 
 Para el desarrollo de este desafío utilizamos el método **Design Thinking**, que es una metodología que se enfoca en la creatividad. Su objetivo es aprovechar las habilidades de los profesionales para encontrar soluciones novedosas a las necesidades de las personas. 
 
-<<<<<<< HEAD
-Tiene 5 etapas, que no son lineales necesariamente, sino que se puede volver atrás e iterar en cualquier momento del proceso.
-=======
 Tiene 5 etapas, que no son lineales necesariamente, sino que se puede volver atrás e iterar en distintos momentos del proceso.
->>>>>>> origin/master
 
 
 ## Etapa 1 - Empatizar
@@ -76,11 +58,7 @@ El primer paso es entender a los usuarios. Durante esta etapa se investigaron la
 
 
 ### Contexto
-<<<<<<< HEAD
-Cuatro tendencias macroambientales están contribuyendo a un mayor enfoque en la salud y bienestar: una población mundial que envejece; aumento de las tasas de enfermedades crónicas; aumento del auto-cuidado, tratamiento y prevención; y aumento de los consumidores cada vez más educados y conectados (OMS, 2008; Nielsen, 2016).
-=======
 Existen cuatro tendencias macroambientales están contribuyendo a un mayor enfoque en la salud y bienestar: una población mundial que envejece; aumento de las tasas de enfermedades crónicas; aumento del auto-cuidado, tratamiento y prevención; y aumento de los consumidores cada vez más educados y conectados (OMS, 2008; Nielsen, 2016).
->>>>>>> origin/master
  ![Qué quieren los consumidores](https://i.imgur.com/zt7SvRk.png)
  Fuente: The Nielsen Company
 
@@ -108,32 +86,6 @@ En cuanto al consumo de snacks, **los consumidores latinoamericanos principalmen
 
 
 ### Tienda Snack Natural Chile
-<<<<<<< HEAD
-La **plataforma de ventas** de nuestra clienta es Instagram, y a traves de esta presenta los productos, las historias y recibe consultas y pedidos.  
-Tiene otras formas de contacto, que las señala en la misma página, como whatsapp y correo electrónico, pero en la entrevista señala que le acomoda mensajes desde el mismo Instagram.
-
-El **inicio de las publicaciones** fue en abril del 2018. Hasta la fecha tiene un total de 89 publicaciones (febrero, 2019). Lo que da  aproximadamente 8 publicaciones mensuales.
-
-Tiene 3 **tipos de publicaciones**:
-promoción de los productos (mantequilla de maní y barras de proteína).
-recetas en que se utiliza su producto
-consejos o tips saludables, sobre los beneficios de consumir los productos que vende.
-Venta, no hay mucha interacción con clientes en la plataforma de Instagram, las personas principalmente señalan lo rico que se ven las preparaciones de las recetas, y preguntan por los valores de los productos, a lo que se le responde solicitando que se envíe un mensaje directo para enviar valores.
-
-Los **hashtag** más utilizados por la tienda son:
-#snacknaturalchile #snickers #delish #fitness #santiago #vidasana #breakfast #waffles #peanutbutter  #foodporn  #mantequillademani #snack #easyrecipes #fitness  #emprendimiento #crossfit #saludable 
-
-
-
-### Benchmark
-Para continuar con la investigación, realizamos un benchmarking de los competidores y empresas con buenas prácticas en venta de comida saludable en Santiago.
-
-La misma clienta nos indicó dos de sus competidores directos:
-
-**AllNuts**: Es una tienda que vende mantequillas de productos secos (maní, almendras y variedades).  En su página se puede comprar directo los productos o se pueden revisar las tiendas físicas donde se encuentran sus productos.  Para comprar los productos, tiene un sistema de pago via transferencia y opciones de envío (gratis, santiago, y regiones). Tiene links a facebook e instagram.
-
-**Manare**: Esta tienda promociona los productos de su marca, no tiene venta de sus productos mediante su página, ni indica los precios.  Se puede revisar las tiendas donde se encuentra, y la posibilidad de convertirse en proveedor de la marca.
-=======
 La **plataforma de ventas** de nuestra clienta es Instagram, y a traves de esta presenta los productos, las historias, y recibe consultas y pedidos.  
 Tiene otras formas de contacto, que las señala en la misma página, como whatsapp y correo electrónico, pero en la entrevista señala que le acomoda mensajes desde el mismo Instagram.
 
@@ -159,7 +111,6 @@ La misma clienta nos indicó dos de sus competidores directos:
 **AllNuts**: Es una tienda que vende mantequillas de productos secos (maní, almendras y variedades).  En su página se puede comprar directo los productos o se pueden revisar las tiendas físicas donde estos se encuentran.  Para comprar los productos, tiene un sistema de pago via transferencia y opciones de envío (gratis, santiago, y regiones). Tiene links a facebook e instagram.
 
 **Manare**: Esta tienda promociona los productos de su marca, no tiene venta de sus productos mediante su página, ni indica los precios.  Se puede revisar las tiendas donde se encuentran los productos, y la posibilidad de convertirse en proveedor de la marca.
->>>>>>> origin/master
 
 ![Benchmark](https://i.imgur.com/lbtFYfD.png)
 
@@ -174,28 +125,12 @@ Link a la carpeta con imágenes de las páginas del [Benchmark.](https://drive.g
 
 
 ### Entrevista con cliente
-<<<<<<< HEAD
-Se realizó una entrevista con la cliente al inicio del proyecto.
-=======
 Se realizó una entrevista con la clienta al inicio del proyecto.
->>>>>>> origin/master
 
 **Objetivos de la entrevista**:
 * Obtener información sobre la empresa, y sus productos de forma más detallada.
 * Conocer el público objetivo del cliente.
 * Conocer el proceso de venta y despacho del cliente.
-<<<<<<< HEAD
-* Conocer los pain-points del cliente en el proceso de venta de sus productos.
-
-**Algunas preguntas realizadas**:
-¿Cuéntanos cómo nace tu emprendimiento? ¿cuándo?
-¿Cómo/dónde elaboras tus productos?
-¿Cómo se contactan los clientes? utilizan un canal por sobre otros? 
-¿Cuál es el perfil de los clientes que compran tu productos? ¿podrías nombrar los últimos 3? han cambiado en el tiempo? ¿cuáles son tus clientes potenciales e ideales?
-¿Has tenido dificultades (ventas, compras inconclusas, devoluciones) que es lo más común, podrías mencionar la última dificultad que te acuerdes?
-¿Que consideras que funciona bien? 
-¿Podrías contactarnos un día típico de @snacknaturalchile? 
-=======
 * Conocer los pain points del cliente en el proceso de venta de sus productos.
 
 **Algunas preguntas realizadas**:
@@ -206,7 +141,6 @@ Se realizó una entrevista con la clienta al inicio del proyecto.
 ¿cuáles son tus clientes potenciales e ideales?
 ¿Has tenido dificultades (ventas, compras inconclusas, devoluciones) 
 ¿Que consideras que funciona bien? 
->>>>>>> origin/master
 ¿Tienes identificadas las marcas son tu competencia? ¿Cuáles son? ¿Qué elementos rescatas, que no te gusta de ellas? ¿Cómo te diferencias?
 ¿Cuánto tiempo le dedicas diario/semanal a tu marca, (responder preguntas, subir imagenes, escribir historias)?
 
@@ -214,11 +148,7 @@ Se realizó una entrevista con la clienta al inicio del proyecto.
 Acceder a la [Guia de Entrevista Semiestructurada Completa.](https://docs.google.com/document/d/1pxVKJucbS779ro2QgxiYz9M68hgt4jj2aAserPEkRZo/edit) 
 
 **Conclusiones**
-<<<<<<< HEAD
-* El público objetivo definido por la clienta se delimita a personas que vivan en las comunas cercanas a su vivienda, debido a los tiempos de despacho y entregas. Ya que ella misma realiza las entregas.  
-=======
 * El público objetivo definido por la clienta se delimita a personas que vivan en las comunas cercanas a su vivienda, debido a los tiempos de despacho y entregas. Ya que ella misma las realiza.  
->>>>>>> origin/master
 * Tiene un grupo objetivo importante en personas que realizan deporte, ya que ellos cuidan su alimentación mediante alimentos saludables y que aporten gran cantidad de nutrientes.
 * Tiene otro grupo de venta entre personas veganas, ya que los ingredientes de sus alimentos son libres de crueldad animal (cruelty free) y cuenta con envases reciclables.
 * Finalmente hay otro grupo de compradores que son personas que lo eligen porque les gustan los alimentos de buena calidad y ricos.
@@ -243,37 +173,20 @@ Con la finalidad de identificar y comprender mejor a los usuarios de la tienda, 
 
 
 ### Costumer journey Map
-<<<<<<< HEAD
-Definimos el flujo de la experiencia de los usuarios mediante el CJM.
-=======
 Definimos el flujo de la experiencia de los usuarios mediante el CJM. Donde se evidencia que los momentos de elegir el producto y entrega corresponden a los momentos de mayor dificultad y duda por parte del usuario o costumer.
->>>>>>> origin/master
 ![](https://i.imgur.com/3uKuoju.jpg)
 
 
 ### Aprendizajes
 * Hay 3 usuarios tipo principales de este producto.
-<<<<<<< HEAD
-* El momento de **elegir el producto** es un momento de mayor duda/ansiedad de los usuarios, ya que tiene que elegir una mantequilla ¿por qué elegir este producto? ¿por qué elegir ésta marca?, ver información sobre los métodos de despacho y de pago que tiene la página y si estos le acomodan.  
-Hay mucha información que tiene que ver y resolver antes de realizar la compra
-=======
 * El momento de **elegir el producto y entrega** son momentos de mayor duda/ansiedad de los usuarios, ya que tiene que elegir una mantequilla ¿por qué elegir este producto? ¿por qué elegir ésta marca?, ver información sobre los métodos de despacho y de pago que tiene la página y si estos le acomodan.  
 * Hay mucha información que tiene que ver y resolver antes de realizar la compra
->>>>>>> origin/master
 
 
 
 ## Etapa 3 - Idear
 ![Idear](https://i.imgur.com/uzwbLH4.jpg)
 
-<<<<<<< HEAD
-A partir del proceso de investigación llevado a cabo hasta esta etapa, llevamos lo aprendido a ideación, donde agrupamos todas las ideas que habíamos recopilado hasta el momento y comenzamos a categorizarlas para así ordenar nuestra información.
-
-Continuando con el método del design thinking analizamos la información recabada a partir de los siguientes procesos, utilizando lápiz, papel y post it.
-
-**Aprendizajes**
-En este punto del proceso escribimos todo lo aprendido hasta el momento, del usuario, del cliente, y de la competencia ([Link](https://drive.google.com/drive/u/1/folders/1vFb6f-jP_6gZhR1h5X_lqM29q3NaYVwQ) a fotografías del mismo proceso).
-=======
 A partir del proceso de investigación realizado hasta esta etapa, llevamos lo aprendido a ideación, donde agrupamos todas las ideas que habíamos recopilado hasta el momento y comenzamos a categorizarlas para así ordenar nuestra información.
 
 Continuando con el método del *design thinking* analizamos la información recabada a partir de los siguientes procesos, utilizando lápiz, papel y post it.
@@ -281,7 +194,6 @@ Continuando con el método del *design thinking* analizamos la información reca
 **Aprendizajes**
 En este punto del proceso escribimos todo lo aprendido hasta el momento, del usuario, del cliente, y de la competencia.
 ([Link](https://drive.google.com/drive/u/1/folders/1vFb6f-jP_6gZhR1h5X_lqM29q3NaYVwQ) a fotografías del mismo proceso)
->>>>>>> origin/master
 
 ![Aprendizajes](https://i.imgur.com/DJVyyXq.jpg)
 
@@ -302,30 +214,18 @@ Finalmente intentamos dar respuesta a esas preguntas, tratando de resolver los p
 [Link ](https://drive.google.com/drive/u/1/folders/164TCVpBW7nASq_DTffa85uD1KBE-hiqa)a fotografías del proceso en post-it.
 
 **Conclusiones**
-<<<<<<< HEAD
-A partir de este ejercicio pudimos focalizarnos en los puntos que nos íbamos a focalizar en resolver mediante el desarrollo de la página web.  De este modo nos decidimos por enfocarnos en **facilitar información acerca del producto** (ingredientes, beneficios, recetas, entre otros.) y en **facilitar el proceso de compra** (pago y despacho).
-
-
-### Historias de usuario
-
-=======
 A partir de este ejercicio pudimos focalizarnos en los puntos que nos íbamos a focalizar en resolver mediante el desarrollo de la página web.  De este modo nos decidimos por enfocarnos en **facilitar información acerca del producto** (ingredientes, beneficios, recetas, entre otros.) y en **facilitar el proceso de compra** (pago y despacho principalmente).
 
 
 ### Historias de usuario
 Como parte de este proceso de condensación e ideación de lo aprendido hasta esta etapa, elaboramos un mapa de historias de usuario, pensando en los 3 usuarios tipos de esta página.
->>>>>>> origin/master
 
 ![Historias de Usuario](https://i.imgur.com/ld1W5tA.jpg)
 
 Link a fotos de [historias de usuario](https://https://drive.google.com/drive/u/1/folders/1Z_04a0Kb6fuznGBjfWM0aggbePvKW2h3) en post it.
 
 **Conclusiones**
-<<<<<<< HEAD
-Al igual que el proceso anterior, en este ejercicio de realizar las historias de usuario nos sirviío para focalizar los esfuerzos prestando atención a ciertos puntos claves:
-=======
 Al igual que el proceso anterior, en este ejercicio de realizar las historias de usuario nos sirvió para focalizar los esfuerzos prestando atención a ciertos puntos claves:
->>>>>>> origin/master
 
 - Producto (Recetas, tips, envase y presentación,ingredientes, información nutricional, producción).
 - Características de usuarios (veganos, deportistas, general).
@@ -334,10 +234,7 @@ Al igual que el proceso anterior, en este ejercicio de realizar las historias de
 
 
 ### Flow Chart
-<<<<<<< HEAD
-=======
 Elaboramos un diagrama de flujo del sitio.
->>>>>>> origin/master
 Link a [Flujo](https://drive.google.com/drive/u/1/folders/1RShhLSp3x5WzK330eTFSTy5SZ3Y5exij) 
 
 
@@ -354,11 +251,7 @@ El prototipo y la evaluación del mismo, lo realizamos de modo circular ya que a
 ### Baja Fidelidad
 Realizamos un primer prototipo de baja fidelidad mediante un wireframe a partir de la información previa.
 
-<<<<<<< HEAD
-![](https://i.imgur.com/8wrpTCv.png)
-=======
 ![baja fidelidad](https://i.imgur.com/8wrpTCv.png)
->>>>>>> origin/master
 
 
 **Testeo de usuario**
@@ -373,11 +266,7 @@ Se solicitó a 4 usuarios que utilizaran la version en wireframe:
 **Aprendizajes**
 - Los usuarios identificaban rápidamente la estructura de la página, ya que al parecer se les hacía muy intuitiva.
 > “La forma en la que está diseñado hace que,a pesar de ser sólo un dibujo, se entienda perfectamente de qué se trata...”. 
-<<<<<<< HEAD
-- Imágenes: Los usuarios parecen apreciar el hecho de que existan varias imágenes en la web, aun cuando no saben de qué se tratan exactamente
-=======
 - Los usuarios parecen apreciar el hecho de que existan varias imágenes en la web, aun cuando no saben de qué se tratan exactamente
->>>>>>> origin/master
 
 
 
@@ -386,27 +275,11 @@ Luego realizamos un testeo con prototipo de alta fidelidad mediante una maqueta 
 
 
 **Testeo de usuarios**
-<<<<<<< HEAD
-Se realizaron 3 testeos a usuarios, 3 fueron grabados, y los demás se tienen fotogra
-=======
 Se realizaron 3 testeos a usuarios, 3 fueron grabados, y a los demás se les tomó fotografías durante el testeo.
->>>>>>> origin/master
 [Link](https://useloom.com/share/folder/9ca41c8908414b7b859f53daa9fcee6a) a videos con testeos de usuarios.
 
 
 **Proceso**
-<<<<<<< HEAD
-1. Que navegara por la página y sus elementos e indicaran qué tipo de página se trata.
-2. Se le indicó realizar una tarea, la de comprar una mantequilla de maní.
-
-**Aprendizajes**
-- Carrito de compras: Facilitar el proceso de compra con el carrito.  Con pocos clicks e informacion sobre la cantidad de objetovs, valor total y posibilidad de eliminar productos.
-> “Generalmente en las  páginas el carrito es confuso,  mientras menos clicks mejor. Ojalá en la sección del carrito se pueda eliminar fácilmente la compra”. 
-- Precio: Indicar el precio en cada producto, y en el carrito de compra, como del total de los productos incluidos en el carrito.
-- Valorados: sección Recetas, contáctanos.
-Indicar dónde queda la empresa (comuna, ciudad, pais).
-- No queda claro que pagina es scrolable y que carrusel se mueve.
-=======
 Se les pidió a los usuarios las siguientes tareas:
 1. Que navegara por la página y sus elementos e indicaran qué tipo de página se trata.
 2. Se les indicó realizaran una tarea, la de comprar una mantequilla de maní.
@@ -419,7 +292,6 @@ Se les pidió a los usuarios las siguientes tareas:
 - Elementos valorados por los usuarios: sección Recetas, contáctanos.
 Indicar dónde queda la empresa (comuna, ciudad, pais).
 - No queda claro que la página es scrolable y que carrusel se mueve.
->>>>>>> origin/master
 - Interfaz es clara que se trata de una página de venta de productos de alimentos.
 
 ### Test de 5 segundos
@@ -449,11 +321,7 @@ Todo público, que quieran algo natural
 
 
 ### Testeo con Clienta
-<<<<<<< HEAD
-Finalmente como parte de la etapa de testeos, presentamos el prototipo de alta fidelidad a la clienta, con el objetivo de tener sus impresiones respecto al contenido, distribución de la información y visualización de la página, antes de la entrega final. [Link](https://www.dropbox.com/preview/Market%20Place/Entrevista%20para%20testeo%20prototipo%20con%20clienta.mov?role=personal) a video de la entrevista.
-=======
 Finalmente como parte de la etapa de testeos, presentamos el prototipo de alta fidelidad a la clienta, con el objetivo de tener sus impresiones respecto al contenido, distribución de la información y visualización de la página, antes de la entrega final. [Link a video de la entrevista.](https://www.dropbox.com/s/p9wa9ty43ne6z01/Entrevista%20para%20testeo%20prototipo%20con%20clienta.mov?dl=0)
->>>>>>> origin/master
 
 
 
@@ -464,23 +332,6 @@ A partir de esta entrevista se incorporaron algunos cambios que la clienta consi
 * En vez de indicar Distribuye que diga *Venta mayorista*.
 * No incluir un carrito de compras porque la cliente ya tiene una solución mediante *virtual post*.
 
-<<<<<<< HEAD
-Para realizar el diseño final, usamos el programa Zeplin para obtener los colores usados en nuestro prototipo y llevar a HTML, CSS y JS.
-
-
-## Versión Final
-La meta de este proyecto fue diseñar una plataforma web para que los usuarios pudieran acceder a toda la información de los productos, mejorando la experiencia de compra.
-
-
-**Información de los productos**
-
-
-**Proceso de compra**
-
-
-
-La versión final esta disponible en versión demo.
-=======
 ### Información para Desarrolladores (pronto disponible)
 Para realizar el diseño final, usaremos el programa Zeplin para obtener los colores usados en nuestro prototipo y llevar a HTML, CSS y JS.
 
@@ -498,7 +349,6 @@ Nuestros focos a resolver fueron:
 
 
 La versión final estará disponible en versión demo.
->>>>>>> origin/master
 
 ## Reflexiones
 Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente como del usuario, ponernos en su lugar, y desde ahí pensar en una solución acorde a ellos para crear un sitio que no solo sea bello, sino y por sobretodo útil.  A partir del uso de la metodología de *Design thinking* pudimos ir dando cuenta y justificando las decisiones de cada etapa del proceso, lo cual le da más sustento al producto final.
@@ -508,27 +358,13 @@ Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente 
 
 - Se realizó un ejercicio de Card sorting, sobre arquitectura de la información, pero no se incluyó en este informe porque no fue parte de la planificación de las actividadees a realizar, y solo se hizo el ejercicio con dos personas, siendo necesario al menos 5. Sin embargo nos aportó algunas ideas respecto a la presentación de la información en la página. (Link a fotografías del ejercicio de [Card Sorting](https://drive.google.com/drive/u/1/folders/1zR9OwAZy7BNP1jrvWugg0Qb8oeXZRkYS))
 - También faltó considerar las mejoras del test de 5 segundos, para dejar más clara en la pantalla del landing page que se trata de alimentos especialmente dirigidos a deportistas y veganos.
-<<<<<<< HEAD
-=======
 - En el Testeo a usuarios aparecieron varios elementos a considerar, resolvimos los que consideramos más relevantes de acuerdo a la consistencia entre testeos, pero dejamos fuera otros.  Sin embargo luego del testeo y con las nuevas mejoras al sitio, creemos necesario volver a testear el sitio con sus nuevas características e iterar a partir de ellos.
->>>>>>> origin/master
 - Testeos de usuario en versión movil, ya que consideramos que puede haber elementos a incorporar con este tipo de testeo.
 
 ****
 
-<<<<<<< HEAD
-Gracias por tomarte el tiempo de leer hasta aqui.
-
-<iframe src="https://docs.google.com/presentation/d/1NSNEsmljE4-DsBkQ65la8M5GcCZdlMEt-b2l36ylpPg/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
-
-
-
-=======
 Les dejamos el [archivo con información anexa](https://drive.google.com/drive/u/1/folders/1ni2bE6YvPP_v4Hs-X3W122_E9mMEuRCY) del proyecto, y la [presentación final](https://docs.google.com/presentation/d/1NSNEsmljE4-DsBkQ65la8M5GcCZdlMEt-b2l36ylpPg/edit#slide=id.g4f5b500c03_0_102) del proyecto.
 
 
 Gracias por tomarse el tiempo de leer hasta aqui.
->>>>>>> origin/master
 
