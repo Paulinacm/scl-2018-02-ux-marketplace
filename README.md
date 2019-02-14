@@ -161,7 +161,7 @@ Acceder a la [Guia de Entrevista Semiestructurada Completa.](https://docs.google
 
 ![Definir](https://i.imgur.com/nRKL1j9.jpg)
 
-Como resultado de la investigación y análisis previos desarrollamos 3 user personas y creamos un costumer journey map para identifcar el proceso que vive una persona que quiera comprar sus productos actualmente.
+Como resultado de la investigación y análisis previos desarrollamos 3 user personas y creamos un custumer journey map para identifcar el proceso que vive una persona que quiera comprar sus productos actualmente.
 
 ### User personas
 Con la finalidad de identificar y comprender mejor a los usuarios de la tienda, desarrollamos un user persona por cada tipo de cliente identificado.  De este modo enfocamos el desarrollo de la página web pensando en estos tipos de usuarios, sus necesidades, y dificultades.
@@ -174,9 +174,9 @@ Con la finalidad de identificar y comprender mejor a los usuarios de la tienda, 
 
 
 
-### Costumer journey Map
+### Custumer journey Map
 Definimos el flujo de la experiencia de los usuarios mediante el CJM. Donde se evidencia que los momentos de elegir el producto y entrega corresponden a los momentos de mayor dificultad y duda por parte del usuario o costumer.
-![](https://i.imgur.com/3uKuoju.jpg)
+![CJM](https://i.imgur.com/fMteoJ1.jpg)
 
 
 ### Aprendizajes
