@@ -97,15 +97,18 @@ margin-top:100px;
 h6, .paragraph,,{
     text-align: center;
     margin-left: 37px;
+    color: #464855;
     
 }
 
 h6{
     font-size: 16px;
     margin-left:40px;
+    color: #464855;
 }
 p{
     font-size: 14px;
+    color: #464855;
 }
 #gym{
     margin-left:87px;
@@ -120,4 +123,19 @@ p{
 
 #peanuts{
     margin-left:-1047px;
+}
+#peanuts2{
+    margin-left:1019px;
+}
+
+#products-card{
+    background-image: url(https://raw.githubusercontent.com/FranciscaMora/scl-2018-02-ux-marketplace/master/src/img/web-imgs/BG.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
