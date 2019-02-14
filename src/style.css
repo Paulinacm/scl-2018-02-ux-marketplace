@@ -1,4 +1,4 @@
-body{
+#main{
     background-image: url(https://raw.githubusercontent.com/FranciscaMora/scl-2018-02-ux-marketplace/master/src/img/web-imgs/_MG_4026.jpg);
     background-position: center center;
     background-repeat: no-repeat;
@@ -21,13 +21,42 @@ font-size: 14px;
 color: #FFFFFF;
 }
 
+#we2, #products2, #recipies2, #contact-us2, #distribute2{
+    margin-top:40px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 14px;
+    color: #74492C; 
+}
+#we2{
+    margin-left:-45px;
+    width: 140px;
+}
+
 #we{
     margin-left:-45px;
     width: 140px;
 }
 
-#products, #recipies, #contact-us{
+#products2, #recipies2, #contact-us2,#products, #recipies, #contact-us{
     margin-left:20px;
+}
+
+
+
+#distribute2{
+    margin-left:179px;
+}
+
+
+.arrow{
+
+width: 105px;
+height: 105px;
+margin-left:600px;
+margin-top:450px;
 }
 
 #distribute{
@@ -53,4 +82,38 @@ nav{
     background-color: unset;
     height: 80px;
 }
+
+h3{
+font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: normal;
+line-height: 32px;
+font-size: 26px;
+text-align: center;
+color: #464855;
+margin-top:100px;
+}
+
+h6, .paragraph,,{
+    text-align: center;
+    margin-left: 37px;
     
+}
+
+h6{
+    font-size: 16px;
+    margin-left:40px;
+}
+p{
+    font-size: 14px;
+}
+#gym{
+    margin-left:87px;
+}
+#heart{
+    margin-left:104px;
+}
+
+#leaf{
+    margin-left:100px;
+}
