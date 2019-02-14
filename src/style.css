@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://raw.githubusercontent.com/FranciscaMora/scl-2018-02-ux-marketplace/master/src/img/web-imgs/_MG_4026.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+
+}
+
+#we, #products, #recipies, #contact-us, #distribute{
+margin-top:40px;
+font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+font-size: 14px;
+color: #FFFFFF;
+}
+
+#we{
+    margin-left:-45px;
+    width: 140px;
+}
+
+#products, #recipies, #contact-us{
+    margin-left:20px;
+}
+
+#distribute{
+    margin-left:170px;
+}
+.nav-logo{
+    height: 130px;
+    width: 130px;
+    margin-top:-23px;
+}
+
+nav ul a{
+    color:#926F67;
+}
+
+nav .brand-logo{
+    color: #926F67;
+    
+    
+}
+
+nav{
+    background-color: unset;
+    height: 80px;
+}
+    
