@@ -389,4 +389,4 @@ Para realizar el diseño final, usamos el programa [Zeplin disponible aquí](htt
 
 
 Gracias por tomarse el tiempo de leer hasta aqui.
-Puedes ver un resumen del proyecto en el [Portafolio web] (http://www.paulinacontreras.cl/Marketplace2/marketplace.html)
+Puedes ver un resumen del proyecto en el [Portafolio web](http://www.paulinacontreras.cl/Marketplace2/marketplace.html)
