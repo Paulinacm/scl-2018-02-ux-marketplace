@@ -380,7 +380,7 @@ Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente 
 - También faltó considerar las mejoras del test de 5 segundos, para dejar más clara en la pantalla del landing page que se trata de alimentos especialmente dirigidos a deportistas y veganos.
 - Testeos de usuario en versión movil, ya que consideramos que puede haber elementos a incorporar con este tipo de testeo.
 
-Les dejamos el [archivo con información anexa](https://drive.google.com/drive/u/1/folders/1ni2bE6YvPP_v4Hs-X3W122_E9mMEuRCY) del proyecto, y el link a la [presentación final](https://docs.google.com/presentation/d/1NSNEsmljE4-DsBkQ65la8M5GcCZdlMEt-b2l36ylpPg/edit#slide=id.g4f5b500c03_0_102) del proyecto.
+Les dejamos el [archivo con información anexa](https://drive.google.com/drive/u/1/folders/1ni2bE6YvPP_v4Hs-X3W122_E9mMEuRCY) del proyecto, y el link a la [presentación final](https://docs.google.com/presentation/d/1NSNEsmljE4-DsBkQ65la8M5GcCZdlMEt-b2l36ylpPg/edit#slide=id.p) del proyecto.
 
 ****
 
