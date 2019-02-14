@@ -243,13 +243,13 @@ Link a [Mapa](https://https://drive.google.com/drive/u/1/folders/1RShhLSp3x5WzK3
 
 
 ### Flow Chart
-f
-f
-f
-f
-f
+También realizamos el diagrama del flujo de compra de un usuario en la página.
+Con tres formas de realizar la compra;
+1. La primera a partir de seleccionar el producto mismo a comprar por ej.: mantequilla de maní clásica y haciendo click en comprar.
+2. La segunda es seleccionando Productos en el navegador, y ahí seleccionar el producto ej.: mantequilla de maní clásica y luego haciendo click en comprar.
+3. Desde la sección productos seleccionada preciamente puede ver más información del producto, y ahí también puede hacr click en comprar el producto.
+![Flow Chart](https://i.imgur.com/k2IIueg.jpg)
 
-f
 
 
 ## Etapa 4 - Prototipar y Etapa 5 - Evaluar
