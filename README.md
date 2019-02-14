@@ -1,3 +1,5 @@
+![Titulo](https://i.imgur.com/UVXqYGj.png)
+
 # Market Place
 Este corresponde a nuestro primer desafío del track de UX Designer en el Bootcamp de Laboratoria.
 
@@ -110,7 +112,9 @@ La misma clienta nos indicó dos de sus competidores directos:
 
 **Manare**: Esta tienda promociona los productos de su marca, no tiene venta de sus productos mediante su página, ni indica los precios.  Se puede revisar las tiendas donde se encuentran los productos, y la posibilidad de convertirse en proveedor de la marca.
 
-![Benchmark](https://i.imgur.com/lbtFYfD.png)
+![Benchmark](https://i.imgur.com/yEtjPtl.png)
+
+
 
 
 Link a la carpeta con imágenes de las páginas del [Benchmark.](https://drive.google.com/drive/u/1/folders/18rLVB2HJtSBmwOXNkHOXy5Ez9w2iC6Ft) 
@@ -378,19 +382,10 @@ Realizar este proyecto nos ayudó a comprender la perspectiva tanto del cliente 
 
 Les dejamos el [archivo con información anexa](https://drive.google.com/drive/u/1/folders/1ni2bE6YvPP_v4Hs-X3W122_E9mMEuRCY) del proyecto, y el link a la [presentación final](https://docs.google.com/presentation/d/1NSNEsmljE4-DsBkQ65la8M5GcCZdlMEt-b2l36ylpPg/edit#slide=id.g4f5b500c03_0_102) del proyecto.
 
-Video presentando este README en Loom https://www.useloom.com/share/da4e77fba9084959939c1eae0f907b1a
 ****
 
 ## Información para Desarrolladores 
 Para realizar el diseño final, usamos el programa [Zeplin disponible aquí](https://scene.zeplin.io/project/5c4884e635c1a337cdb26f84) y llevar a código HTML, CSS y JS.
 
 
-
-
-
-
-
 Gracias por tomarse el tiempo de leer hasta aqui.
-
-
-
