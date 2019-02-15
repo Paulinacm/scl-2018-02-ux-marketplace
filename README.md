@@ -1,8 +1,8 @@
 ![Titulo](https://i.imgur.com/UVXqYGj.png)
 
 
-Ver el prototipo en [HTML] (http://www.paulinacontreras.cl/Proyectos/src/)
-Revisar el estudio de caso en el [Blog] (http://www.paulinacontreras.cl/Proyectos/src/)
+Ver el prototipo en [HTML](http://www.paulinacontreras.cl/Proyectos/src/)
+Revisar el estudio de caso en el [Blog](http://www.paulinacontreras.cl/Proyectos/src/)
 # Market Place
 Este corresponde a nuestro primer desafío del track de UX Designer en el Bootcamp de Laboratoria.
 
