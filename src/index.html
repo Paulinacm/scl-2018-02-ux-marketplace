@@ -26,7 +26,7 @@
               <ul id="nav-mobile" class="left hide-on-med-and-down">
                 <li><a id="we" class="waves-effect waves-light btn-flat col l12">Quienes somos</a></li>
                 <li><a id="products" class="waves-effect waves-light btn-flat col l12">Productos</a></li>
-                <li><a id="recipies" class="waves-effect waves-light btn-flat col l12">Recetas</a></li>
+                <li><a id="recipes" class="waves-effect waves-light btn-flat col l12">Recetas</a></li>
                 <li><a id="distribute" class="waves-effect waves-light btn-flat col l12">Venta Mayorista</a></li>
                 <li><a id="contact-us" class="waves-effect waves-light btn-flat col l12">Contáctanos</a></li>
 
@@ -59,7 +59,7 @@
               <ul id="nav-mobile2" class="left hide-on-med-and-down">
                 <li><a id="we2" class="waves-effect waves-light btn-flat col l12">Quienes somos</a></li>
                 <li><a id="products2" class="waves-effect waves-light btn-flat col l12">Productos</a></li>
-                <li><a id="recipies2" class="waves-effect waves-light btn-flat col l12">Recetas</a></li>
+                <li><a id="recipes2" class="waves-effect waves-light btn-flat col l12">Recetas</a></li>
                 <li><a id="distribute2" class="waves-effect waves-light btn-flat col l12">Venta Mayorista</a></li>
                 <li><a id="contact-us2" class="waves-effect waves-light btn-flat col l12">Contáctanos</a></li>
 
@@ -75,8 +75,8 @@
     </header>
 
 
-
-    <section id="who-we-are" class="animated fadeInUp">
+<div class="animated fadeInUp">
+    <section id="who-we-are">
       <div class="container">
         <div class="row">
 
@@ -124,7 +124,7 @@
     <section id="products-card">
       <div class="container">
         <div class="row">
-          <div class="col s12 m6">
+          <div id="crunchy-card" class="col s12 m6">
             <div class="card horizontal">
               <div class="card-image">
                 <img
@@ -132,18 +132,18 @@
               </div>
               <div class="card-stacked">
                 <div class="card-content">
-                  <h6>Mantequilla 100% maní crunchy(con trozos crocantes)</h6>
-                  <p>$5.000</p>
+                  <h5>Mantequilla 100% maní crunchy(con trozos crocantes)</h5>
+                  <p class="price">$5.000</p>
                 </div>
                 <div class="card-action">
-                  <a class="waves-effect waves-light btn-small">Ver más</a>
-                  <a class="waves-effect waves-light btn-small">Comprar</a>
+                  <a class="waves-effect waves-light btn-small more">Ver más</a>
+                  <a class="waves-effect waves-light btn-small buy">Comprar</a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col s12 m6">
+          <div id="classic-card" class="col s12 m6">
             <div class="card horizontal">
               <div class="card-image">
                 <img
@@ -151,18 +151,18 @@
               </div>
               <div class="card-stacked">
                 <div class="card-content">
-                  <h6>Mantequilla 100% maní crunchy(con trozos crocantes)</h6>
-                  <p>$5.000</p>
+                  <h5>Mantequilla 100% maní<h5>                                                            </h6>
+                  <p class="price">$5.000</p>
                 </div>
                 <div class="card-action">
-                  <a class="waves-effect waves-light btn-small">Ver más</a>
-                  <a class="waves-effect waves-light btn-small">Comprar</a>
+                  <a class="waves-effect waves-light btn-small more">Ver más</a>
+                  <a class="waves-effect waves-light btn-small buy">Comprar</a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col s12 m6">
+          <div id="cocoa-card" class="col s12 m6">
             <div class="card horizontal">
               <div class="card-image">
                 <img
@@ -170,31 +170,31 @@
               </div>
               <div class="card-stacked">
                 <div class="card-content">
-                  <h6>Mantequilla 100% maní crunchy(con trozos crocantes)</h6>
-                  <p>$5.000</p>
+                  <h5>Mantequilla 100% maní + cacao</h5>
+                  <p class="price">$5.500</p>
                 </div>
                 <div class="card-action">
-                  <a class="waves-effect waves-light btn-small">Ver más</a>
-                  <a class="waves-effect waves-light btn-small">Comprar</a>
+                  <a class="waves-effect waves-light btn-small more">Ver más</a>
+                  <a class="waves-effect waves-light btn-small buy">Comprar</a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col s12 m6">
-            <div class="card horizontal">
+          <div  id="protein-bar" class="col s12 m6">
+            <div  class="card horizontal">
               <div class="card-image">
                 <img
                   src="https://raw.githubusercontent.com/FranciscaMora/scl-2018-02-ux-marketplace/master/src/img/web-imgs/49858581_558970267922533_8433193407242588395_n.png">
               </div>
               <div class="card-stacked">
                 <div class="card-content">
-                  <h6>Mantequilla 100% maní crunchy(con trozos crocantes)</h6>
-                  <p>$5.000</p>
+                  <h5>Barritas Proteicas</h5>
+                  <p class="price" >$6.990</p>
                 </div>
                 <div class="card-action">
-                  <a class="waves-effect waves-light btn-small">Ver más</a>
-                  <a class="waves-effect waves-light btn-small">Comprar</a>
+                  <a class="waves-effect waves-light btn-small more">Ver más</a>
+                  <a class="waves-effect waves-light btn-small buy">Comprar</a>
                 </div>
               </div>
             </div>
@@ -204,11 +204,11 @@
 
     </section>
 
-    <section id="recipie-screen">
-      <div id="recipie-title">
-        <h6>RECETAS</h6>
-        <p>¿No sabes con qué acompañar nuestros productos?</p>
-        <p>¡No te preocupes! Revisa alguna de estas deliciosas recetas que tenemos para ti</p>
+    <section id="recipe-screen">
+      <div id="recipe-title">
+        <h4>Recetas</h4>
+        <p class="recipe-p">¿No sabes con qué acompañar nuestros productos?</p>
+        <p class="recipe-p">¡No te preocupes! Revisa alguna de estas deliciosas recetas que tenemos para ti</p>
       </div>
 
       <div class="container">
@@ -217,14 +217,14 @@
             <div class="card large">
               <div class="card-image">
                 <img src="https://raw.githubusercontent.com/FranciscaMora/scl-2018-02-ux-marketplace/master/src/img/web-imgs/Loop.png">
-                <span class="card-title">Card Title</span>
+                
               </div>
               <div class="card-content">
-                <p>I am a very simple card. I am good at containing small bits of information.
-                  I am convenient because I require little markup to use effectively.</p>
+                  <span class="card-title">Overnight oats banana-mantequilla de maní</span>
+                
               </div>
               <div class="card-action">
-                <a href="#">This is a link</a>
+                <a href="#">Ver Receta</a>
               </div>
             </div>
           </div>
@@ -236,14 +236,14 @@
             <div class="card large">
               <div class="card-image">
                 <img src="https://raw.githubusercontent.com/FranciscaMora/scl-2018-02-ux-marketplace/master/src/img/web-imgs/50315507_2270706336518898_8504160729169431212_n.png">
-                <span class="card-title">Card Title</span>
+                
               </div>
               <div class="card-content">
-                <p>I am a very simple card. I am good at containing small bits of information.
-                  I am convenient because I require little markup to use effectively.</p>
+                  <span class="card-title">Pancakes de avena y plátano</span>
+                
               </div>
               <div class="card-action">
-                <a href="#">This is a link</a>
+                <a href="#">Ver Receta</a>
               </div>
             </div>
           </div>
@@ -254,24 +254,36 @@
             <div class="card large">
               <div class="card-image">
                 <img src="https://raw.githubusercontent.com/FranciscaMora/scl-2018-02-ux-marketplace/master/src/img/web-imgs/30829491_620638051603959_830459341457850368_n.png">
-                <span class="card-title">Card Title</span>
+               
               </div>
               <div class="card-content">
-                <p>I am a very simple card. I am good at containing small bits of information.
-                  I am convenient because I require little markup to use effectively.</p>
+                  <span class="card-title">Bolitas de mantequilla de maní y chocolate</span>
+                
               </div>
               <div class="card-action">
-                <a href="#">This is a link</a>
+                <a href="#">Ver Receta</a>
               </div>
             </div>
           </div>
 
         </div>
-
     </section>
+    </div>
+<div id="unavailable">
+<section >
+  <h6 id="sorry" >Lo sentimos :( Este contenido aún no se encuentra disponible</h6>
+  <a id="reload" class="waves-effect waves-teal btn-flat">Click aquí para volver al incio</a>
+</div>
+</section>
 
 </body>
-<footer></footer>
+<footer>
+  <div class="container">
+    <div class="row">
+  <img class="col l12" src="https://raw.githubusercontent.com/FranciscaMora/scl-2018-02-ux-marketplace/master/src/img/web-imgs/Groupp.png" alt="footer">
+  </div>
+  </div>
+</footer>
 <!-- Compiled and minified CSS -->
 
 <script src="app.js"></script>
