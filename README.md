@@ -3,6 +3,7 @@
 # Market Place
 Este corresponde a nuestro primer desafío del track de UX Designer en el Bootcamp de Laboratoria.
 
+
 ## Visión general del Cliente
 ![](https://i.imgur.com/LJuwcFA.png)
 Pagina de Instagram de la cliente.
