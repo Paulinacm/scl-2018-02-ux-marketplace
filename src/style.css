@@ -1,4 +1,4 @@
-body{
+#main{
     background-image: url(https://raw.githubusercontent.com/FranciscaMora/scl-2018-02-ux-marketplace/master/src/img/web-imgs/_MG_4026.jpg);
     background-position: center center;
     background-repeat: no-repeat;
@@ -11,7 +11,7 @@ body{
 
 }
 
-#we, #products, #recipies, #contact-us, #distribute{
+#we, #products, #recipes, #contact-us, #distribute{
 margin-top:40px;
 font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 font-style: normal;
@@ -21,13 +21,42 @@ font-size: 14px;
 color: #FFFFFF;
 }
 
+#we2, #products2, #recipes2, #contact-us2, #distribute2{
+    margin-top:40px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 14px;
+    color: #74492C; 
+}
+#we2{
+    margin-left:-45px;
+    width: 140px;
+}
+
 #we{
     margin-left:-45px;
     width: 140px;
 }
 
-#products, #recipies, #contact-us{
+#products2, #recipes2, #contact-us2,#products, #recipes, #contact-us{
     margin-left:20px;
+}
+
+
+
+#distribute2{
+    margin-left:179px;
+}
+
+
+.arrow{
+
+width: 105px;
+height: 105px;
+margin-left:600px;
+margin-top:450px;
 }
 
 #distribute{
@@ -53,4 +82,141 @@ nav{
     background-color: unset;
     height: 80px;
 }
+
+h3,h4{
+font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: normal;
+line-height: 32px;
+font-size: 26px;
+text-align: center;
+color: #464855;
+margin-top:100px;
+}
+
+h6, .paragraph,.recipe-p{
+    text-align: center;
+    margin-left: 37px;
+    color:#464855;
     
+}
+
+h6{
+    font-size: 16px;
+    margin-left:40px;
+    color: #464855;
+}
+p{
+    font-size: 14px;
+    color: #464855;
+}
+#gym{
+    margin-left:87px;
+}
+#heart{
+    margin-left:104px;
+}
+
+#leaf{
+    margin-left:100px;
+}
+
+#peanuts{
+    margin-left:-1047px;
+}
+#peanuts2{
+    margin-left:1019px;
+}
+
+#products-card{
+    background-image: url(https://raw.githubusercontent.com/FranciscaMora/scl-2018-02-ux-marketplace/master/src/img/web-imgs/BG.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    
+}
+
+#products-card{
+    background-image: url(https://raw.githubusercontent.com/FranciscaMora/scl-2018-02-ux-marketplace/master/src/img/web-imgs/crossfit-dumbbell-equipment-669578.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin-top:110px;
+}
+
+#crunchy-card,#classic-card{
+margin-top: 40px;
+}
+
+.second-nav{
+    background-color: white;
+}
+
+footer{
+    margin-top:200px;
+    width: 100%;
+    height: auto;
+    background-color: #74492C;
+    
+}
+
+/* 2AA1EF */
+
+.card .card-content .card-title{
+    color:black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:18px;
+}
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating){
+    color:#2AA1EF;
+}
+
+#protein-bar{
+    margin-top:-220px;
+}
+
+#reload{
+    color:blue;
+    text-align: center;
+}
+
+/* #sorry{
+    text-align: center;
+    color:#464646;
+} */
+
+.more{
+    color:#2AA1EF;
+    background-color: white;
+    border-color: #2AA1EF;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+}
+
+.buy{
+    color:white;
+    background-color: #2AA1EF;
+}
+
+.card-action{
+    margin-left:35px;
+}
+
+.card-content{
+    text-align: left;
+}
+.price{
+    font-size:16px;
+}
