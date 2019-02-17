@@ -132,6 +132,7 @@ Link a la carpeta con imágenes de las páginas del [Benchmark.](https://drive.g
 
 ### Entrevista con cliente
 Se realizó una entrevista con la clienta al inicio del proyecto.
+Link a la grabación en [audio de la entrevista](https://www.dropbox.com/sh/j9d9xcta9ywunn6/AACmhb6U8NKBYLqYd5RsC4nFa?dl=0)
 
 **Objetivos de la entrevista**:
 * Obtener información sobre la empresa, y sus productos de forma más detallada.
@@ -389,7 +390,7 @@ Les dejamos el [archivo con información anexa](https://drive.google.com/drive/u
 ****
 
 ## Información para Desarrolladores 
-Para realizar el diseño final, usamos el programa [Zeplin disponible aquí](https://scene.zeplin.io/project/5c4884e635c1a337cdb26f84) y llevar a código HTML, CSS y JS.
+Para realizar el diseño final, usamos el programa [Zeplin disponible aquí](https://scene.zeplin.io/project/5c693b165a5404463a10138d) para llevar a código HTML, CSS y JS.
 
 
 Gracias por tomarse el tiempo de leer hasta aqui.
